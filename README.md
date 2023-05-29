@@ -1,8 +1,6 @@
 ## A very simple 8-bit CPU simulator
 
-A very simple representation of an 8-bit CPU (I guess you could also say it's a virtual machine). It has two registers, `register_a` and `register_b`, and several methods that correspond to different instructions, such as `set_a`, `set_b`, `add`, `sub`, `jump`, `jump_if_zero`, etc.
-
-### Instructions
+A very simple representation of an 8-bit CPU (I guess you could also say it's a virtual machine). It has two registers, `register_a` and `register_b`, and the following instructions:
 
 | Opcode | Description |
 | -------| ------------|
