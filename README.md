@@ -24,9 +24,9 @@ A very simple representation of an 8-bit CPU (I guess you could also say it's a 
 
 The main function in the `main.rs` file includes an example program that prints out the string "Hello, World!".
 
-### Note
+### Future plans
 
-It would be cool to expand the capabilities of this CPU. Here are some things that I have in mind:
+It would be cool to expand the capabilities of this CPU later. Here are some things that I have in mind:
 
 - Additional instructions such as multiplication, division, logical operations, shift operations, etc.
 - A flags register that gets updated after each operation. These could include zero flag, carry flag, sign flag, etc.
